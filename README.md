@@ -4,7 +4,6 @@
 # Biomedical Image Analysis: Displacement and Strain – Applications in Thermal Imaging
 
 
-
 ![Generic badge](https://img.shields.io/badge/MATLAB-blue.svg)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/luowensheng/Biomedical_Image_Analysis-Displacement-and-Strain-Applications-in-Thermal-Imaging-/pulse)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/luowensheng)
@@ -21,9 +20,7 @@
 One of the techniques for monitoring focused ultrasound (FUS) thermal therapy is ultrasonic temperature estimation based on echo-time shift of ultrasound radio-frequency (RF) signals before and after FUS heating. The echo-time shift mainly
 results from changes in speed of sound induced by FUS heating. It is found that the echo-time shift variation (analogy to displacement variation), named as thermal strain, between the two RF signals is linearly proportional to the temperature change δT in tissue, as defined in the following:
 
-```
-<center><img src="https://latex.codecogs.com/gif.latex?\delta&space;T(z)=\frac{C_{0}}{2}.K.\frac{\partial&space;}{\partial&space;_{z}}\Delta&space;t(z)" title="\delta T(z)=\frac{C_{0}}{2}.K.\frac{\partial }{\partial _{z}}\Delta t(z)" /></a></center>
-```
+><div align="center"><img src="https://latex.codecogs.com/gif.latex?\delta&space;T(z)=\frac{C_{0}}{2}.K.\frac{\partial&space;}{\partial&space;_{z}}\Delta&space;t(z)" title="\delta T(z)=\frac{C_{0}}{2}.K.\frac{\partial }{\partial _{z}}\Delta t(z)" /></a></div>
 
 where C<sub>0</sub> is the initial speed of sound, K is the lumped constant that describes the relationship between temperature and thermal strain <img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;}{\partial&space;_{z}}\Delta&space;t(z)" title="\frac{\partial }{\partial _{z}}\Delta t(z)" /></a> and the T(z) is the temperature of the medium at the depth z.
  
