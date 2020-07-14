@@ -1,7 +1,7 @@
 # -Displacement-and-Strain-Applications-in-Thermal-Imaging-
  Displacement and Strain – Applications in Thermal Imaging implementation
 
- the cross-correlation processing can be simply used to estimate the echo-time shift for the estimation of temperature change
+The cross-correlation processing can be simply used to estimate the echo-time shift for the estimation of temperature change
 
 
 Estimate echo time shift in (us) as a function of depth 
