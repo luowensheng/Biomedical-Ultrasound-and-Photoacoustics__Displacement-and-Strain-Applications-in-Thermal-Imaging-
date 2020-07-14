@@ -8,7 +8,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/luowensheng/Biomedical_Image_Analysis-Displacement-and-Strain-Applications-in-Thermal-Imaging-/pulse)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/luowensheng)
 
-[Introduction](#Introduction) • [Goals](#Goals) • [Tasks](#Tasks) • [Credits](#Credits) • [Questions](#Questions)
+[Introduction](#Introduction) • [Goals](#Goals) • [Tasks](#Tasks) • [Questions](#Questions)
 
 </center>
 <br>
