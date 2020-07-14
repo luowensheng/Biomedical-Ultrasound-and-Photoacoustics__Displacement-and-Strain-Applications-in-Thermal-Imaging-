@@ -48,8 +48,8 @@ We see that a smaller window size leads to more noise in the data. Smoothing the
 When we are performing cross correlation between two signals, we can imagine how a small window size may be unable to show the lag between the two signals especially when the lag is large.
 
 ### **2. Estimating thermal strain in % as a function of depth from the echo time shift obtained in point 1:**
-![5](https://i.ibb.co/Wn3yRS4/5.jpg)
-![6](https://i.ibb.co/DCTcmsC/6.jpg)
+![5](https://i.ibb.co/Wn3yRS4/5.jpg)<br>
+![6](https://i.ibb.co/DCTcmsC/6.jpg)<br>
 ![7](https://i.ibb.co/4ZcSqR1/7.jpg)
 
 We see that a smaller ratio creates more noise and the noise reduces the accuracy of that data. We see that large window sizes and small overlapping ratio create a cleaner signal and the max strain is larger whereas for a small window size and a large overlapping ratio create the noisiest signal out of them all and we see that the strain given by that combination is smaller.
