@@ -17,7 +17,7 @@
 
 
 # Introduction
-One of the techniques for monitoring focused ultrasound (FUS) thermal therapy is ultrasonic temperature estimation based on echo-time shift of ultrasound radio-frequency (RF) signals before and after FUS heating. The echo-time shift mainly
+One of the ```techniques``` for monitoring focused ultrasound (FUS) thermal therapy is ultrasonic temperature estimation based on echo-time shift of ultrasound radio-frequency (RF) signals before and after FUS heating. The echo-time shift mainly
 results from changes in speed of sound induced by FUS heating. It is found that the echo-time shift variation (analogy to displacement variation), named as thermal strain, between the two RF signals is linearly proportional to the temperature change δT in tissue, as defined in the following:
 
 ><div align="center"><img src="https://latex.codecogs.com/gif.latex?\delta&space;T(z)=\frac{C_{0}}{2}.K.\frac{\partial&space;}{\partial&space;_{z}}\Delta&space;t(z)" title="\delta T(z)=\frac{C_{0}}{2}.K.\frac{\partial }{\partial _{z}}\Delta t(z)" /></a></div>
