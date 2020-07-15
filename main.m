@@ -1,5 +1,3 @@
-%   EE 6265 ??? Luo WenSheng 107064426 HW2 10/30/2019
-
 % 6 functions have been made for this assignment
 % derivative: finds the derivative of the filtered ETS
 % overlap: finds shift for the window given a window size
