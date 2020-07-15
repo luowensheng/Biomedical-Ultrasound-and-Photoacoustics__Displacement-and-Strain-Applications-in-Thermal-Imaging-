@@ -1,4 +1,4 @@
-<h3 align="center">Biomedical Image Analysis:</h3> 
+<h3 align="center">Principles of Biomedical Ultrasound and Photoacoustics:</h3> 
 <h1 align="center">Displacement and Strain – Applications in Thermal Imaging
 </h1>
 <p align="center">
