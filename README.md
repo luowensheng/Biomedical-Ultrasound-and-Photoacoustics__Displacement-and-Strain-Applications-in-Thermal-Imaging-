@@ -1,20 +1,18 @@
-<html>
-<center>
+<h3 align="center">Biomedical Image Analysis:</h3> 
+<h1 align="center">Displacement and Strain – Applications in Thermal Imaging
+</h1>
+<p align="center">
+    <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/Made with-MATLAB-blue.svg"></a>
+    <a href="https://github.com/luowensheng/Biomedical_Image_Analysis-Displacement-and-Strain-Applications-in-Thermal-Imaging-/pulse"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+    <a href="https://github.com/luowensheng"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 
-# Biomedical Image Analysis: Displacement and Strain – Applications in Thermal Imaging
-
-
-![Generic badge](https://img.shields.io/badge/MATLAB-blue.svg)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/luowensheng/Biomedical_Image_Analysis-Displacement-and-Strain-Applications-in-Thermal-Imaging-/pulse)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/luowensheng)
-
-[Introduction](#Introduction) • [Goals](#Goals) • [Tasks](#Tasks) • [Questions](#Questions)
-
-</center>
+<p align="center">
+  <a href="#Introduction">Introduction</a> •
+  <a href="#Goals">Goals</a> •
+  <a href="#Tasks">Tasks</a> •
+  <a href="#Questions">Questions</a>
+</p>
 <br>
-<br>
-<br>
-
 
 # Introduction
 One of the ```techniques``` for monitoring focused ultrasound (FUS) thermal therapy is ultrasonic temperature estimation based on echo-time shift of ultrasound radio-frequency (RF) signals before and after FUS heating. The echo-time shift mainly
