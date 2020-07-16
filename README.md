@@ -16,7 +16,8 @@
   <a href="#Tasks">Tasks</a> •
   <a href="#Questions">Questions</a>
 </p>
-<br>
+
+___
 
 # Introduction
 [(Back to top :arrow_up_small:)](#Principles-of-Biomedical-Ultrasound-and-Photoacoustics)
