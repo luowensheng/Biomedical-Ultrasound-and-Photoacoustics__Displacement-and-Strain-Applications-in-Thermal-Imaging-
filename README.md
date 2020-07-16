@@ -1,3 +1,7 @@
+<p align="center">
+    <a href="https://github.com/luowensheng"><img src="https://i.ibb.co/0FmPqfm/logo1a.png"></a>
+</p>
+
 <h3 align="center">Principles of Biomedical Ultrasound and Photoacoustics:</h3> 
 <h1 align="center">Displacement and Strain – Applications in Thermal Imaging
 </h1>
@@ -62,8 +66,10 @@ The idea seems to be that if we want more accurate results, the combination of h
 # Questions
 Submit your questions and bug reports [here](https://github.com/luowensheng/Natural-Language-Processing-Grammatical-Error-Correction-/issues)
 
-
- 
+<br>
+<p align="center">  
+  <sub>© luowensheng.
+  </a>
  
  
  
