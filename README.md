@@ -40,7 +40,7 @@ From the equation shown above, the cross-correlation processing can be simply us
 When performing the cross-correlation processing, the results of point 1 and 2 obtained with different window size M (M = 2, 6, and 10 wavelengths relative to the center frequency) and different overlapping ratio N (N = 0%, 50%, 75%) are compared and justified.
 
 # Tasks
-[(Back to top :arrow_up_small:)](#Principles-of-Biomedical-Ultrasound-and-Photoacoustics-:)
+[(Back to top :arrow_up_small:)](#Principles-of-Biomedical-Ultrasound-and-Photoacoustics)
 
 The data given:
 <br>
