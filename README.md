@@ -2,7 +2,7 @@
     <a href="https://github.com/luowensheng"><img src="https://i.ibb.co/0FmPqfm/logo1a.png"></a>
 </p>
 
-<h3 align="center">Principles of Biomedical Ultrasound and Photoacoustics:</h3> 
+<h3 align="center">Principles of Biomedical Ultrasound and Photoacoustics</h3> 
 <h1 align="center">Displacement and Strain – Applications in Thermal Imaging
 </h1>
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 # Introduction
-[(Back to top :arrow_up_small:)](#Principles-of-Biomedical-Ultrasound-and-Photoacoustics-:)
+[(Back to top :arrow_up_small:)](#Principles-of-Biomedical-Ultrasound-and-Photoacoustics)
 
 One of the techniques for **monitoring focused ultrasound (FUS) thermal therapy** is ultrasonic temperature estimation based on echo-time shift of ultrasound ```radio-frequency (RF)``` signals before and after FUS heating. The echo-time shift mainly
 results from changes in speed of sound induced by FUS heating. It is found that the echo-time shift variation (analogy to displacement variation), named as thermal strain, between the two RF signals is linearly proportional to the temperature change δT in tissue, as defined in the following:
@@ -30,7 +30,7 @@ where C<sub>0</sub> is the initial speed of sound, K is the lumped constant that
  
 
 # Goals
-[(Back to top :arrow_up_small:)](#Principles-of-Biomedical-Ultrasound-and-Photoacoustics-:)
+[(Back to top :arrow_up_small:)](#Principles-of-Biomedical-Ultrasound-and-Photoacoustics)
 
 From the equation shown above, the cross-correlation processing can be simply used to estimate the echo-time shift for the estimation of temperature change. In this project, from the provided RF signals in the “FUS_RFData.mat”, the goals are to:
 
@@ -70,7 +70,7 @@ The idea seems to be that if we want more accurate results, the combination of h
 
 
 # Questions
-[(Back to top :arrow_up_small:)](#Principles-of-Biomedical-Ultrasound-and-Photoacoustics-:)
+[(Back to top :arrow_up_small:)](#Principles-of-Biomedical-Ultrasound-and-Photoacoustics)
 
 Submit your questions and bug reports [here](https://github.com/luowensheng/Natural-Language-Processing-Grammatical-Error-Correction-/issues)
 
