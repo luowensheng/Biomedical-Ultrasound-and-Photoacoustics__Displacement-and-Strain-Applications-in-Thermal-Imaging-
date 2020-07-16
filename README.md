@@ -19,7 +19,7 @@
 <br>
 
 # Introduction
-[(Back to top :arrow_up_small:)](#Displacement-and-Strain-Applications-in-Thermal-Imaging)
+[(Back to top :arrow_up_small:)](#Principles-of-Biomedical-Ultrasound-and-Photoacoustics-:)
 
 One of the techniques for **monitoring focused ultrasound (FUS) thermal therapy** is ultrasonic temperature estimation based on echo-time shift of ultrasound ```radio-frequency (RF)``` signals before and after FUS heating. The echo-time shift mainly
 results from changes in speed of sound induced by FUS heating. It is found that the echo-time shift variation (analogy to displacement variation), named as thermal strain, between the two RF signals is linearly proportional to the temperature change δT in tissue, as defined in the following:
@@ -30,7 +30,7 @@ where C<sub>0</sub> is the initial speed of sound, K is the lumped constant that
  
 
 # Goals
-[(Back to top :arrow_up_small:)](#Displacement-and-Strain-Applications-in-Thermal-Imaging)
+[(Back to top :arrow_up_small:)](#Principles-of-Biomedical-Ultrasound-and-Photoacoustics-:)
 
 From the equation shown above, the cross-correlation processing can be simply used to estimate the echo-time shift for the estimation of temperature change. In this project, from the provided RF signals in the “FUS_RFData.mat”, the goals are to:
 
@@ -40,7 +40,7 @@ From the equation shown above, the cross-correlation processing can be simply us
 When performing the cross-correlation processing, the results of point 1 and 2 obtained with different window size M (M = 2, 6, and 10 wavelengths relative to the center frequency) and different overlapping ratio N (N = 0%, 50%, 75%) are compared and justified.
 
 # Tasks
-[(Back to top :arrow_up_small:)](#Displacement-and-Strain-Applications-in-Thermal-Imaging)
+[(Back to top :arrow_up_small:)](#Principles-of-Biomedical-Ultrasound-and-Photoacoustics-:)
 
 The data given:
 <br>
@@ -70,7 +70,7 @@ The idea seems to be that if we want more accurate results, the combination of h
 
 
 # Questions
-[(Back to top :arrow_up_small:)](#Displacement-and-Strain-Applications-in-Thermal-Imaging)
+[(Back to top :arrow_up_small:)](#Principles-of-Biomedical-Ultrasound-and-Photoacoustics-:)
 
 Submit your questions and bug reports [here](https://github.com/luowensheng/Natural-Language-Processing-Grammatical-Error-Correction-/issues)
 
