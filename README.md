@@ -19,6 +19,8 @@
 <br>
 
 # Introduction
+[(Back to top :arrow_up_small:)](#Displacement-and-Strain-Applications-in-Thermal-Imaging)
+
 One of the techniques for **monitoring focused ultrasound (FUS) thermal therapy** is ultrasonic temperature estimation based on echo-time shift of ultrasound ```radio-frequency (RF)``` signals before and after FUS heating. The echo-time shift mainly
 results from changes in speed of sound induced by FUS heating. It is found that the echo-time shift variation (analogy to displacement variation), named as thermal strain, between the two RF signals is linearly proportional to the temperature change δT in tissue, as defined in the following:
 
